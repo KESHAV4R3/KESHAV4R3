@@ -1,26 +1,90 @@
-![logo](https://i.pinimg.com/originals/e9/bf/55/e9bf55f5df6b5c3717679a392f33bfdf.jpg)
-<h1 align="center">Hi 👋, I'm keshav kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keshav4r3&label=Profile%20views&color=0e75b6&style=flat" alt="keshav4r3" /> </p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+👋+I'm+Keshav+Kumar;Full+Stack+Developer;MERN+Stack+%7C+Next.js;Frontend+Performance+Focused" />
+</h1>
 
-- 🌱 I’m currently learning **REACT**
-
-- 👨‍💻 All of my projects are available at [https://github.com/KESHAV4R3](https://github.com/KESHAV4R3)
-
-- 📫 How to reach me **keshav4r3official@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keshav4r3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav4r3" height="30" width="40" /></a>
-<a href="https://instagram.com/keshav4r3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshav4r3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keshav4r3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keshav4r3" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/keshav4r3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="keshav4r3" height="30" width="40" /></a>
+<p align="center">
+  Full Stack Developer with a strong frontend focus and hands-on experience in MERN Stack and Next.js.  
+  I build scalable, secure, and performance-optimized web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  📍 India &nbsp;|&nbsp;
+  📧 keshav.buillds@gmail.com &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://github.com/YOUR_USERNAME">GitHub</a> •
+  <a href="https://portfolio-frontend-lac-theta.vercel.app/">Portfolio</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshav4r3&show_icons=true&locale=en&layout=compact" alt="keshav4r3" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshav4r3&show_icons=true&locale=en" alt="keshav4r3" /></p>
+## 🚀 About Me
+- 💻 Full Stack Developer (MERN Stack & Next.js)
+- ⚡ Improved Core Web Vitals by **30%** through UI and rendering optimizations
+- 🧠 Strong foundation in **Clean Architecture, Agile**, and **DSA**
+- 🏆 Solved **150+ problems on LeetCode**
+- 🛠 Experience with CI/CD and fixing **GitHub Actions build issues**
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- Java (OOP), JavaScript (ES6+), TypeScript, SQL
+
+### Frontend
+- React, Next.js
+- Redux Toolkit, Redux Thunk
+- Tailwind CSS, GSAP
+- Responsive Design & Performance Optimization
+
+### Backend
+- Node.js, Express.js
+- REST APIs, JWT, OAuth 2.0
+- Firebase, Nodemailer
+
+### Tools & Platforms
+- Git, GitHub Actions
+- MongoDB, MySQL
+- Postman, Apidog
+- Vercel, Figma
+
+---
+
+## 💼 Experience
+
+### Frontend Developer Intern — **Zupper Commerce Pvt. Ltd.** (Remote)  
+📅 Jul 2025 – Present
+- Improved **Core Web Vitals by 30%** using modular components and optimized rendering in Next.js
+- Refactored Redux Thunk state management and built reusable UI components
+- Integrated **MSG91 SMS notifications** and analytics dashboards
+- Fixed GitHub Actions build-time issues and validated APIs using Apidog
+- Collaborated in an **Agile, cross-functional team**
+
+---
+
+## 📌 Key Projects
+
+### 🎓 EduNest – EdTech Platform (MERN Stack)
+- JWT-based authentication with **Role-Based Access Control**
+- Instructor workflows for course creation & management
+- Razorpay payment gateway with multiple payment modes
+- Analytics dashboard for students & instructors
+
+### 🌐 Dynamic Developer Portfolio
+- Interactive UI using **GSAP animations**
+- Secure contact form using Node.js & Nodemailer
+- Optimized for performance and smooth user experience
+
+---
+
+## 🏆 Achievements
+- Solved **150+ DSA problems** with optimal complexity
+- Increased seller task completion rates by **20%**
+- Supported apps with **500+ active users** and no critical security issues
+
+---
+
+## 🎓 Education
+**B.Tech in Computer Science & Engineering**  
+UIET, Maharshi Dayanand University, Rohtak  
+📅 2022 – 2026 | 🎯 Overall: **82%**
